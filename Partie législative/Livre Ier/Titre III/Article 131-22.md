@@ -5,8 +5,12 @@ pendant lequel le travail d'intérêt général doit être accompli dans la limi
 dix-huit mois. Le délai prend fin dès l'accomplissement de la totalité du
 travail d'intérêt général ; il peut être suspendu provisoirement pour motif
 grave d'ordre médical, familial, professionnel ou social. Ce délai est suspendu
-pendant le temps où le condamné est incarcéré ou pendant le temps où il
-accomplit les obligations du service national.
+pendant le temps où le condamné est assigné à résidence avec surveillance
+électronique, est placé en détention provisoire, exécute une peine privative de
+liberté ou accomplit les obligations du service national. Toutefois, le travail
+d'intérêt général peut être exécuté en même temps qu'une assignation à résidence
+avec surveillance électronique, qu'un placement à l'extérieur, qu'une semi-
+liberté ou qu'un placement sous surveillance électronique.
 
 Les modalités d'exécution de l'obligation d'accomplir un travail d'intérêt
 général et la suspension du délai prévu à l'alinéa précédent sont décidées par
