@@ -2,8 +2,8 @@ Article 131-8
 ----
 Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut
 prescrire, à la place de l'emprisonnement, que le condamné accomplira, pour une
-durée de vingt à deux cent quatre-vingts heures, un travail d'intérêt général
-non rémunéré au profit soit d'une personne morale de droit public, soit d'une
+durée de quarante à deux cent dix heures, un travail d'intérêt général non
+rémunéré au profit soit d'une personne morale de droit public, soit d'une
 personne morale de droit privé chargée d'une mission de service public ou d'une
 association habilitées à mettre en oeuvre des travaux d'intérêt général.
 
