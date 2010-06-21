@@ -1,13 +1,9 @@
-Article R635-8
+Article R645-8
 ----
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de
-déposer, d'abandonner, de jeter ou de déverser, en lieu public ou privé, à
-l'exception des emplacements désignés à cet effet par l'autorité administrative
-compétente, soit une épave de véhicule, soit des ordures, déchets, déjections,
-matériaux, liquides insalubres ou tout autre objet de quelque nature qu'il soit,
-lorsque ceux-ci ont été transportés avec l'aide d'un véhicule, si ces faits ne
-sont pas accomplis par la personne ayant la jouissance du lieu ou avec son
-autorisation.
+L'usage d'un document délivré par une administration publique aux fins de
+constater un droit, une identité ou une qualité ou d'accorder une autorisation,
+lorsque les mentions invoquées par l'intéressé sont devenues incomplètes ou
+inexactes, est puni de l'amende prévue pour les contraventions de la 5e classe.
 
 Les personnes coupables de la contravention prévue au présent article encourent
 également la peine complémentaire de confiscation de la chose qui a servi ou

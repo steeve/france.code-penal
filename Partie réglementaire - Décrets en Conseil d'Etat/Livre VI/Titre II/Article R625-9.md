@@ -1,13 +1,10 @@
-Article R635-8
+Article R625-9
 ----
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de
-déposer, d'abandonner, de jeter ou de déverser, en lieu public ou privé, à
-l'exception des emplacements désignés à cet effet par l'autorité administrative
-compétente, soit une épave de véhicule, soit des ordures, déchets, déjections,
-matériaux, liquides insalubres ou tout autre objet de quelque nature qu'il soit,
-lorsque ceux-ci ont été transportés avec l'aide d'un véhicule, si ces faits ne
-sont pas accomplis par la personne ayant la jouissance du lieu ou avec son
-autorisation.
+Le fait, par une personne titulaire de l'une des autorisations mentionnées à
+l'article R. 226-3, de proposer, céder, louer ou vendre un appareil figurant sur
+la liste visée à l'article R. 226-1 en violation des dispositions du premier
+alinéa de l'article R. 226-10 est puni de l'amende prévue pour les
+contraventions de la 5e classe.
 
 Les personnes coupables de la contravention prévue au présent article encourent
 également la peine complémentaire de confiscation de la chose qui a servi ou
